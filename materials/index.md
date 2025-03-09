@@ -1,4 +1,4 @@
- # ndice de Especificaciones de Materiales
+ # Indice de Especificaciones de Materiales
 
 Bienvenido al subdirectorio **`PartVII/Materials/`**, parte de la **Part VII: Materials & Manufacturing (GAIA FAB)** en COAFI. En esta sección se recopilan todos los documentos relacionados con **las propiedades, la selección y los métodos de fabricación de los materiales** empleados en GAIA AIR.
 
